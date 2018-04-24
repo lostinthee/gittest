@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 original edit;
 biubiuibu;
+冲突测试
